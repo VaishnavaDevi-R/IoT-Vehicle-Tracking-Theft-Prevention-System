@@ -6,8 +6,6 @@ __pycache__/
 
 .env
 
-data/*.csv
-
 outputs/
 
 .streamlit/
