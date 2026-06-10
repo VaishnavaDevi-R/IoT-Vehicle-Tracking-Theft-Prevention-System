@@ -13,7 +13,25 @@ Vehicle theft and unauthorized vehicle movement are major concerns in transporta
 The system continuously tracks vehicle movement, logs GPS data, detects geofence violations, and alerts when suspicious movement occurs.
 
 ---
+## 🌐 Live Demo
 
+Experience the project in action:
+
+**🚀 Live Application:**
+https://iot-vehicle-tracking-theft-prevention-system-2gxyyaatqqfgsmdnu.streamlit.app/
+
+### Demo Highlights
+
+* 📍 Real-Time GPS Vehicle Tracking
+* 🚨 Theft Detection & Geofencing Alerts
+* 🗺️ Live Vehicle Location Monitoring
+* 📊 Tracking Analytics Dashboard
+* 📜 Recent Tracking Events
+* 📋 Vehicle Tracking Logs
+
+Open the live dashboard and explore the complete Vehicle Tracking & Theft Prevention System.
+
+---
 ## ✨ Features
 
 ### 🚗 Real-Time Vehicle Tracking
